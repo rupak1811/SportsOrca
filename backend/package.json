@@ -1,0 +1,11 @@
+{
+  "name": "sports-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "cors": "^2.8.5"
+  }
+}

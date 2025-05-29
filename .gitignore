@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Optional for React
+*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
