@@ -1,4 +1,4 @@
-# Sports Match Viewer
+# Sports Match Scheduler
 
 A simple web application to display sports match information.
 
